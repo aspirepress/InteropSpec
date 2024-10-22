@@ -1,4 +1,4 @@
-# WordPress Plugin Metadata Specification 1.0 - DRAFT
+# WordPress Plugin Metadata Specification - DRAFT
 
 ## Contributors
 

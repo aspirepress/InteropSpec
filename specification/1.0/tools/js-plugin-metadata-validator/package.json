@@ -1,0 +1,23 @@
+{
+	"name": "validate-wp-plugin-metadata.js",
+	"version": "1.0.0",
+	"description": "A validator for the AspirePress WordPress plugin metadata spec poposal",
+	"main": "validate-wp-plugin-metadata.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aspirepress/InteropSpec.git"
+	},
+	"dependencies": {
+		"ajv": "^8.12.0",
+		"ajv-formats": "^2.1.1"
+	},
+	"author": "antpb, eadamsatx",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/aspirepress/InteropSpec/issues"
+	},
+	"homepage": "https://github.com/aspirepress/InteropSpec#readme"
+}

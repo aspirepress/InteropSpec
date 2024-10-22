@@ -1,0 +1,18 @@
+{
+	"name": "XR Publisher",
+	"slug": "xr-publisher",
+	"version": "2.0-alpha",
+	"author": "<a href=\"https://antpb.com\">antpb</a>",
+	"requires": "5.0",
+	"tested": "6.7",
+	"requires_php": "7.2",
+	"last_updated": "2024-10-09 12:00pm GMT",
+	"added": "2024-10-09",
+	"short_description": "A WordPress plugin for drag and drop 3D content creation compatible with most XR devices.",
+	"description": "A WordPress plugin for publishing XR content with support for WebXR and popular glTF Extensions.",
+	"download_link": "https://updater.sxp.digital/xr-publisher.zip",
+	"spec_meta": {
+		"specification-version": "1.0",
+		"specification-source": "aspiprepress"
+	}
+}

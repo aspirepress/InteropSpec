@@ -1,0 +1,71 @@
+{
+	"name": "XR Publisher",
+	"slug": "xr-publisher",
+	"version": "2.0-alpha",
+	"author": "<a href=\"https://antpb.com\">antpb</a>",
+	"author_profile": "https://profiles.wordpress.org/antpb/",
+	"requires": "5.0",
+	"tested": "6.7",
+	"requires_php": "7.2",
+	"requires_plugins": [],
+	"compatibility": [],
+	"rating": 0,
+	"ratings": {
+	  "1": 0,
+	  "2": 0,
+	  "3": 0,
+	  "4": 0,
+	  "5": 0
+	},
+	"num_ratings": 0,
+	"support_threads": 0,
+	"support_threads_resolved": 0,
+	"active_installs": 50,
+	"downloaded": 0,
+	"last_updated": "2024-10-09 12:00pm GMT",
+	"added": "2024-10-09",
+	"homepage": "https://xrpublisher.com/",
+	"sections": {
+	  "description": "A WordPress plugin for publishing XR content with support for WebXR and popular glTF Extensions.",
+	  "installation": "",
+	  "changelog": "",
+	  "faq": "",
+	  "screenshots": ""
+	},
+	"short_description": "A WordPress plugin for drag and drop 3D content creation compatible with most XR devices.",
+	"description": "A WordPress plugin for publishing XR content with support for WebXR and popular glTF Extensions.",
+	"download_link": "https://updater.sxp.digital/xr-publisher.zip",
+	"screenshots": [],
+	"tags": {
+	  "tag1": "metaverse",
+	  "tag2": "virtual reality"
+	},
+	"versions": {
+	  "2.0-alpha": "https://updater.sxp.digital/xr-publisher.zip"
+	},
+	"donate_link": "https://xrpublisher.com",
+	"contributors": {
+	  "antpb": {
+		"profile": "https://profiles.wordpress.org/antpb/",
+		"avatar": "https://secure.gravatar.com/avatar/youravatarhash?s=96&d=monsterid&r=g",
+		"display_name": "antpb"
+	  }
+	},
+	"icons": {
+	  "1x": "https://updater.sxp.digital/xr-publisher/icon-128x128.png",
+	  "2x": "https://updater.sxp.digital/xr-publisher/icon-256x256.png"
+	},
+	"source": {
+	  "name": "SXP Digital",
+	  "url": "https://updater.sxp.digital"
+	},
+	"business_model": "commercial",
+	"commercial_support_url": "https://xrpublisher.com/support",
+	"support_url": "https://xrpublisher.com/community",
+	"preview_link": "https://xrpublisher.com/demo",
+	"repository_url": "https://github.com/antpb/xr-publisher",
+	"spec_meta": {
+		"specification-version": "1.0",
+		"specification-source": "aspiprepress"
+	  }  
+  }
