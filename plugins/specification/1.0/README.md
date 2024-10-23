@@ -1,4 +1,4 @@
-# WordPress Plugin Metadata Specification - DRAFT
+# WordPress Plugin Metadata Specification - DRAFT - Version 1.0
 
 ## Contributors
 
@@ -17,7 +17,7 @@ Written against the WordPress Plugin Directory standards.
 
 This specification allows for the standardization of metadata for WordPress plugins across multiple repositories. It aims to provide a consistent format for plugin information, making it easier for developers, users, and platforms to work with plugin data.
 
-### Example:
+### Example
 
 ```json
 {
@@ -230,7 +230,6 @@ This specification consists of a JSON schema that defines the structure and prop
 - **Description**: The average user rating for the plugin, on a scale from 0 to 100. This is divided by 20 before display in the UI.
 - **Example**: `95`
 
-
 ### num_ratings
 - **Type**: integer
 - **Required**: No
@@ -359,7 +358,6 @@ This specification consists of a JSON schema that defines the structure and prop
 - **Required**: No
 - **Description**: One of "commercial", "community", or the boolean value false.
 - **Example**: `"community"`
-  
 ### preview_link
 - **Type**: string
 - **Required**: No
@@ -403,11 +401,13 @@ FULL SCHEMA DOCS IN THE WORKS - let's get the draft done first then I can write 
 
 ## Known Implementations
 
-Proof of concept 3D Plugin Repo: https://app.xr.foundation
-Demo: https://www.youtube.com/watch?v=1oTkmDNkwyo
+### 3D Plugin Repo Proof of concept
+
+- [3D Plugin Repo:](https://app.xr.foundation/)
+- [Demo:](https://www.youtube.com/watch?v=1oTkmDNkwyo/)
 
 ## Resources
 
 Modeled after the Khronos Group glTF Extension specification structure.
 
-Initial version inspired by the WordPress.org plugin schema: https://api.wordpress.org/translations/plugins/1.0/?slug=three-object-viewer
+Initial version inspired by [the WordPress.org plugin schema:](https://api.wordpress.org/translations/plugins/1.0/?slug=three-object-viewer/)
