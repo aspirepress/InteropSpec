@@ -1,22 +1,22 @@
 # Logs
-logs
-*.log
+*/logs
+*/plugins/*.log
 */npm-debug.log*
 */yarn-debug.log*
 */yarn-error.log*
 
 # Output/build
-*/lib
+lib
 
 # Runtime data
-*/pids
+pids
 *.pid
 *.seed
 *.pid.lock
 
-# Dependency directories
-*/node_modules/
-*/jspm_packages/
+# Plugin Dependency directories
+/plugins/node_modules/
+/plugins/jspm_packages/
 
 # dotenv environment variables file
 .env
