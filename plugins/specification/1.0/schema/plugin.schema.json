@@ -245,7 +245,7 @@
 				},
 				"specification_source": {
 					"type": "string",
-					"const": "aspiprepress"
+					"const": "aspirepress"
 				}
 			},
 			"required": [

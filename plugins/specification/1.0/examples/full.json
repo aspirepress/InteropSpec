@@ -39,6 +39,10 @@
 	  "tag1": "metaverse",
 	  "tag2": "virtual reality"
 	},
+	"banners": {
+		"high": "https://pub-2ef6bc2ae372488daf94a858e2b752ac.r2.dev/antpb/xr-chess-block/banner-1500x620.jpg",
+		"low": "https://pub-2ef6bc2ae372488daf94a858e2b752ac.r2.dev/antpb/xr-chess-block/banner-1500x620.jpg"
+	},
 	"versions": {
 	  "2.0-alpha": "https://updater.sxp.digital/xr-publisher.zip"
 	},
@@ -65,6 +69,6 @@
 	"repository_url": "https://github.com/antpb/xr-publisher",
 	"spec_meta": {
 		"specification_version": "1.0",
-		"specification_source": "aspiprepress"
+		"specification_source": "aspirepress"
 	  }  
   }
