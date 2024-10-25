@@ -55,7 +55,6 @@ This specification allows for the standardization of metadata for WordPress plug
 	  "screenshots": ""
 	},
 	"short_description": "A WordPress plugin for drag and drop 3D content creation compatible with most XR devices.",
-	"description": "A WordPress plugin for publishing XR content with support for WebXR and popular glTF Extensions.",
 	"download_link": "https://updater.sxp.digital/xr-publisher.zip",
 	"screenshots": [],
 	"tags": {
@@ -87,8 +86,8 @@ This specification allows for the standardization of metadata for WordPress plug
 	"preview_link": "https://xrpublisher.com/demo",
 	"repository_url": "https://github.com/antpb/xr-publisher",
 	"spec_meta": {
-		"specification-version": "1.0",
-		"specification-source": "aspiprepress"
+		"specification_version": "1.0",
+		"specification_source": "aspiprepress"
 	  }  
   }
 ```
