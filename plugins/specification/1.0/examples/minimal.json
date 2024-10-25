@@ -9,10 +9,16 @@
 	"last_updated": "2024-10-09 12:00pm GMT",
 	"added": "2024-10-09",
 	"short_description": "A WordPress plugin for drag and drop 3D content creation compatible with most XR devices.",
-	"description": "A WordPress plugin for publishing XR content with support for WebXR and popular glTF Extensions.",
+	"sections": {
+		"description": "A WordPress plugin for publishing XR content with support for WebXR and popular glTF Extensions.",
+		"installation": "",
+		"changelog": "",
+		"faq": "",
+		"screenshots": ""
+	},
 	"download_link": "https://updater.sxp.digital/xr-publisher.zip",
 	"spec_meta": {
-		"specification-version": "1.0",
-		"specification-source": "aspiprepress"
+		"specification_version": "1.0",
+		"specification_source": "aspiprepress"
 	}
 }
