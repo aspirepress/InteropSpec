@@ -12,7 +12,7 @@ Draft
 
 ## Overview
 
-This specification allows for the standardization of metadata for both WordPress plugins & WordPress Themes across multiple repositories. It aims to provide a consistent format for plugin & Theme information, making it easier for developers, users, and platforms to work with both plugin & theme  data.
+This specification allows for the standardization of metadata for both WordPress plugins & WordPress themes across multiple repositories. It aims to provide a consistent format for plugin & theme information, making it easier for developers, users, and platforms to work with both plugin & theme data.
 
 ## Known Implementations
 
